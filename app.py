@@ -27,5 +27,5 @@ async def add(ctx): # you can use any function name, doesn't matter
 
 
 if __name__ == '__main__':
-  
+  keep_alive.keep_alive()
   twitchBot.run()
